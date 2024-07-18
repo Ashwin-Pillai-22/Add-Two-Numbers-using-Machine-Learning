@@ -20,7 +20,7 @@
 1. Clone the repository:  git clone https://github.com/Ashwin-Pillai-22/Add-Two-Numbers-using-Machine-Learning.git
                           cd Add-Two-Numbers-using-Machine-Learning
 
-2. Install the required packages:  pip install -r requirements.txt
+2. Install the required packages
 
 **Contributing**:
 Contributions are welcome! Please feel free to submit a Pull Request.
